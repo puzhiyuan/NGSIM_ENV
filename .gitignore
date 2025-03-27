@@ -1,0 +1,6 @@
+__pycache__/
+*.csv
+temp_envs/
+models/
+tensorboard/
+videos/
